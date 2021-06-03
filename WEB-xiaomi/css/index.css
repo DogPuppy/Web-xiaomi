@@ -141,6 +141,7 @@
     margin-top: 22px;
     width: 55px;
     height: 55px;
+    border-radius:5px;
     position: relative;
     overflow: hidden;
     /* 隐藏logo中的文字 */
